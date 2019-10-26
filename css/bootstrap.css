@@ -4062,7 +4062,7 @@ input[type="button"].btn-block {
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 2rem 1.5rem;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -4081,6 +4081,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-item {
   margin-bottom: -1px;
+  padding: 20px;
 }
 
 .nav-tabs .nav-link {
@@ -4154,7 +4155,7 @@ input[type="button"].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 1.5rem 1rem;
 }
 
 .navbar > .container,
